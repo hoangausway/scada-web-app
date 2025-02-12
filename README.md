@@ -1,2 +1,2 @@
-# scada-web-app# SCADA Web Application
+# SCADA Web Application
 ## Setup Instructions
